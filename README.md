@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # travel-trip
+
+Link Figma : https://www.figma.com/file/NasubXzc6IJvP8OrFS7bGV/Landing---Travel-Trip?node-id=1%3A2&t=dLqkDl6YICCXaWnd-0
